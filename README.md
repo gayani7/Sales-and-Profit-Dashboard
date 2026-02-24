@@ -1,2 +1,7 @@
-# Sales-and-Profit-Dashboard
-Retail Sales &amp; Profit Interactive Dashboard built using Microsoft Excel
+# CoreMart Sales & Profit Dashboard
+
+An interactive retail analytics dashboard built using Microsoft Excel to analyze sales performance, customer distribution, and profit trends.
+
+   
+ ## Screenshots
+
